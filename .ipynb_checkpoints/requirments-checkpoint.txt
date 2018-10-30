@@ -1,0 +1,7 @@
+beautifulsoup4
+Comment
+urllib2
+requests
+csv
+re
+codecs
