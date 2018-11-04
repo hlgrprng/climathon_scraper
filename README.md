@@ -3,4 +3,6 @@
 First extract cities from main page:
 https://climathon.climate-kic.org/en/cities
 
-with "a href="/.+?(?=">)"
+```
+with regex "a href="/.+?(?=">)"
+```
